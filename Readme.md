@@ -234,4 +234,9 @@ Thread priority is a **hint to the scheduler** — higher priority threads are *
 
 ---
 
+### Read about [Java Executioner Service](https://github.com/vaibhav25-mnnit/java-multithreading/blob/master/ThreadPools/Readme.md) (V.V.V Imp for interviews)
+
+---
+
+
 Made with ❤️ by [@vaibhav25-mnnit](https://github.com/vaibhav25-mnnit)
